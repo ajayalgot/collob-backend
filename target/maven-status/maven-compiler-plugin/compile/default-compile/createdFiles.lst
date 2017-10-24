@@ -1,0 +1,8 @@
+com\niit\controller\UserController.class
+com\niit\configuraton\WebAppInitializer.class
+com\niit\model\Error.class
+com\niit\configuraton\WebConfig.class
+com\niit\dao\UsersDao.class
+com\niit\configuraton\DBConfig.class
+com\niit\model\Users.class
+com\niit\dao\UsersDaoImpl.class
